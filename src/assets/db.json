@@ -1,0 +1,222 @@
+[
+  {
+    "id": 0,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-s-krevetkoj-v-losose.1800x1800w.jpg",
+    "name": "Philadelphia in salmon with shrimp",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, shrimp, salmon cheese, cucumber",
+    "price": 11,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 1,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-losose-i-tuntse.1800x1800w.jpg",
+    "name": "Philadelphia in tuna and salmon",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, tuna, cheese, cucumber",
+    "price": 8,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-krevetke.1800x1800w.jpg",
+    "name": "Philadelphia in shrimp",
+    "include": "Rice, shrimp, cheese, cucumber",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "price": 10,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-lososem.1800x1800w.jpg",
+    "name": "California with salmon",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, salmon, cheese, avocado, caviar",
+    "price": 6,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-tuntsom.1800x1800w.jpg",
+    "name": "California with tuna",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, tuna, cheese, avocado, caviar",
+    "price": 8,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-ugrem.1800x1800w.jpg",
+    "name": "California with eel",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, eel, cheese, avocado, caviar",
+    "price": 9.5,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-ugre.600x800.jpg",
+    "name": "Philadelphia in the eel",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, eel, cheese, cucumber",
+    "price": 7,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/filadelfiya-v-losose.600x800.jpg",
+    "name": "Philadelphia in salmon",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, salmon, cheese, cucumber",
+    "price": 7,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/kaliforniya-s-krevetkoj.1800x1800w.jpg",
+    "name": "California with shrimp",
+    "types": [0, 1],
+    "weight": ["240g", "310g"],
+    "include": "Rice, shrimp, cheese, avocado, caviar",
+    "price": 10,
+    "category": 0,
+    "rating": 4
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/temaki-s-krevetkoj.1800x1800w.jpg",
+    "name": "Temaki with shrimp",
+    "types": [0, 1],
+    "weight": ["130g"],
+    "include": "Rice, shrimp, cheese, cucumber, caviar",
+    "price": 4,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/temaki-s-ugrem.1800x1800w.jpg",
+    "name": "Temaki with eel",
+    "types": [0, 1],
+    "weight": ["130g"],
+    "include": "Rice, eel, cheese, avocado",
+    "price": 4,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 11,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/temaki-s-lososem-i-tuntsom.1800x1800w.jpg",
+    "name": "Temaki with tuna and salmon",
+    "types": [0, 1],
+    "weight": ["130g"],
+    "include": "Rice, tuna, salmon, cheese, cucumber, caviar",
+    "price": 4,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 12,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/temaki-s-lososem.1800x1800w.jpg",
+    "name": "Temaki with salmon",
+    "types": [0, 1],
+    "weight": ["110g"],
+    "include": "Rice, salmon, cheese, cucumber, caviar",
+    "price": 4,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 13,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/maki-s-ogurtsom.1800x1800w.jpg",
+    "name": "Maki with cucumber",
+    "types": [0, 1],
+    "weight": ["110g"],
+    "include": "Rice, cucumber",
+    "price": 2,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 14,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/maki-s-tuntsom.1800x1800w.jpg",
+    "name": "Maki with tuna",
+    "types": [0, 1],
+    "weight": ["110g"],
+    "include": "Rice, tuna",
+    "price": 4,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/maki-s-krevetkoj-i-syrom.1800x1800w.jpg",
+    "name": "Maki with cheese and shrimp",
+    "types": [0, 1],
+    "weight": ["110g"],
+    "include": "Rice, shrimp, cheese",
+    "price": 2.5,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 16,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/maki-s-ugrem.1800x1800w.jpg",
+    "name": "Maki with eel",
+    "weight": ["110g"],
+    "types": [0, 1],
+    "include": "Rice, eel",
+    "price": 3,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 17,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/maki-s-lososem.1800x1800w.jpg",
+    "name": "Maki with salmon",
+    "types": [0],
+    "include": "Rice, salmon",
+    "weight": ["110g"],
+    "price": 3,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 18,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/set-mix2.1800x1800w.jpg",
+    "name": "Set Mix",
+    "types": [0],
+    "include": "California with shrim, California with eel, Maki with cucmber, Philadelphia in tuna and salmon, Maki with tuna",
+    "weight": ["1280g"],
+    "price": 20,
+    "category": 0,
+    "rating": 5
+  },
+  {
+    "id": 19,
+    "imageUrl": "https://sushidjan.com.ua/files/resized/products/set-filadelfiya.600x800.jpg",
+    "name": "Set Philadelphia",
+    "types": [0],
+    "include": "Philadelphia in salmon, Philadelphia in shrimp, Philadelphia in the eel, Philadelphia in tuna and salmon",
+    "weight": ["1240g"],
+    "price": 22,
+    "category": 0,
+    "rating": 5
+  }
+]
